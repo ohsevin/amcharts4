@@ -38,7 +38,7 @@
     "stackblur-canvas": "^2.0.0",
     "tslib": "^2.0.1",
     "venn.js": "^0.2.20",
-    "xlsx": "^0.16.4"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
